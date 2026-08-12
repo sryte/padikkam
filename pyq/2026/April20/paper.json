@@ -6,7 +6,7 @@
     {
       "id": 1,
       "subject": "Mathematics",
-      "text": "Let \\(X = \\{a,b,c,d,e\\}\\) and \\(A = \\{a,b,c,d,\\}\\) . Let \\(\\mathrm{P} = \\{B:B\\subseteq X\\) and \\(A\\backslash B = \\{d\\} \\}\\) . Then the number of elements in the set P, is",
+      "text": "Let \\(X = \\{a,b,c,d,e\\}\\) and \\(A = \\{a,b,c,d\\}\\). Let \\(\\mathrm{P} = \\{B : B \\subseteq X \\text{ and } A \\setminus B = \\{d\\}\\}\\). Then the number of elements in the set P, is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -416,8 +416,8 @@
       "image_path": "",
       "options": [
         "\\([1,\\frac{3}{2}] \\cup [-\\frac{3}{2}, -1]\\)",
-        "\\([1,\\frac{3}{2}] \\cup [-\\frac{3}{2}, -1]\\)",
-        "\\([1,\\frac{3}{2}] \\cup [-\\frac{3}{2}, -1]\\)",
+        "\\([1,\\frac{3}{2}]\\)",
+        "\\([-\\frac{3}{2}, -1]\\)",
         "\\([2,\\frac{3}{2}] \\cup [-\\frac{3}{2}, -1]\\)",
         "\\([1,\\frac{3}{2}] \\cup [-\\frac{3}{2}, -2]\\)"
       ],
@@ -641,7 +641,7 @@
       "image_path": "",
       "options": [
         "\\(\\frac{-x - 1}{-1} = \\frac{6 + y}{-2} = \\frac{-z + 5}{-2}\\)",
-        "\\(\\frac{-x - 1}{-1} = \\frac{6 - y}{-2} = \\frac{-z + 5}{-2}\\)",
+        "\\(\\frac{x + 1}{1} = \\frac{y - 6}{2} = \\frac{z - 5}{2}\\)",
         "\\(\\frac{-x - 1}{-1} = \\frac{6 - y}{-2} = \\frac{-z - 5}{-2}\\)",
         "\\(\\frac{-x - 1}{-1} = \\frac{6 - y}{2} = \\frac{-z + 5}{-2}\\)",
         "\\(\\frac{-x - 1}{-1} = \\frac{6 - y}{-2} = \\frac{-z + 5}{-2}\\)"
@@ -659,7 +659,7 @@
         "\\(\\frac{2}{\\sqrt{18}}, \\frac{3}{\\sqrt{18}}, \\frac{\\sqrt{7}}{\\sqrt{18}}\\)",
         "\\(\\frac{2}{\\sqrt{23}}, \\frac{3}{\\sqrt{23}}, \\frac{\\sqrt{7}}{\\sqrt{23}}\\)",
         "\\(\\frac{2}{\\sqrt{25}}, \\frac{3}{\\sqrt{25}}, \\frac{\\sqrt{7}}{\\sqrt{25}}\\)",
-        "\\(\\frac{2}{\\sqrt{20}}, \\frac{3}{\\sqrt{20}}, \\frac{\\sqrt{7}}{\\sqrt{20}}\\)"
+        "\\(\\frac{2}{\\sqrt{21}}, \\frac{3}{\\sqrt{21}}, \\frac{\\sqrt{7}}{\\sqrt{21}}\\)"
       ],
       "correct_option": 0
     },

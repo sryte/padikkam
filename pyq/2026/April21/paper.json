@@ -12,8 +12,8 @@
       "options": [
         "$\\{1,2,3,4\\}$",
         "$\\{2,3,4\\}$",
-        "$\\backslash (\\backslash \\{1,3,4\\} \\backslash \\backslash)$",
-        "$\\{1,2,3,\\}$",
+        "$\\{1,3,4\\}$",
+        "$\\{1,2,3\\}$",
         "$\\{1,3\\}$"
       ],
       "correct_option": 3
@@ -29,7 +29,7 @@
         "$\\mathbb{R} - \\{2\\}$",
         "$\\mathbb{R} - \\{1\\}$",
         "$\\mathbb{R} - \\{0\\}$",
-        "$\\mathbb{R} - \\{1, - 1\\}$"
+        "$\\mathbb{R} - \\{1, -1\\}$"
       ],
       "correct_option": 0
     },
@@ -146,10 +146,10 @@
       "image_path": "",
       "options": [
         "4",
-        "2 5",
+        "$\\frac{2}{5}$",
         "2",
-        "1 5",
-        "4 5"
+        "$\\frac{1}{5}$",
+        "$\\frac{4}{5}$"
       ],
       "correct_option": 0
     },
@@ -175,11 +175,11 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "4,6,8",
-        "6,8,10",
-        "4,8,32",
-        "4,6,12",
-        "4,8,16"
+        "$4,6,8$",
+        "$6,8,10$",
+        "$4,8,32$",
+        "$4,6,12$",
+        "$4,8,16$"
       ],
       "correct_option": 4
     },
@@ -276,7 +276,7 @@
     {
       "id": 19,
       "subject": "Mathematics",
-      "text": "The value of the determinant of the inverse of the matrix $\\left[ \\begin{array}{cc} - 4 & - 5 \\\\ 2 & 2 \\end{array} \\right]$ is",
+      "text": "The value of the determinant of the inverse of the matrix $\\left[ \\begin{array}{cc} -4 & -5 \\\\ 2 & 2 \\end{array} \\right]$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -291,7 +291,7 @@
     {
       "id": 20,
       "subject": "Mathematics",
-      "text": "If $A = \\left[ \\begin{array}{cc}3 & \\lambda - 3 \\\\ -1 & 1 \\end{array} \\right] B = \\left[ \\begin{array}{cc}3 & 2 \\\\ 2 & 1 \\end{array} \\right]$ and $AB = \\left[ \\begin{array}{cc}7 & 1 \\\\ -1 & -1 \\end{array} \\right]$ , then $\\lambda$ is equal to",
+      "text": "If $A = \\left[ \\begin{array}{cc}3 & \\lambda - 3 \\\\ -1 & 1 \\end{array} \\right]$, $B = \\left[ \\begin{array}{cc}3 & 2 \\\\ 2 & 1 \\end{array} \\right]$ and $AB = \\left[ \\begin{array}{cc}7 & 1 \\\\ -1 & -1 \\end{array} \\right]$ , then $\\lambda$ is equal to",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -321,15 +321,15 @@
     {
       "id": 22,
       "subject": "Mathematics",
-      "text": "If $(x - 1)(x^{2} - 5x + 7)< (x - 1)$ , then $x$ belongs to",
+      "text": "If $(x - 1)(x^{2} - 5x + 7) < (x - 1)$ , then $x$ belongs to",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$(- \\infty , - 1)\\cup (2,3)$",
-        "$(- \\infty , - 1]\\cup [2,3]$",
-        "$(- \\infty ,1)\\cup (2,3)$",
-        "$(- \\infty ,1)\\cup [2,3]$",
-        "$(- \\infty ,1)\\cup (2,3]$"
+        "$(-\\infty , -1)\\cup (2,3)$",
+        "$(-\\infty , -1]\\cup [2,3]$",
+        "$(-\\infty ,1)\\cup (2,3)$",
+        "$(-\\infty ,1)\\cup [2,3]$",
+        "$(-\\infty ,1)\\cup (2,3]$"
       ],
       "correct_option": 2
     },
@@ -342,7 +342,7 @@
       "options": [
         "$\\mathbb{R}$",
         "$\\mathbb{R} - \\{0\\}$",
-        "$\\mathbb{R} - \\{1, - 1\\}$",
+        "$\\mathbb{R} - \\{1, -1\\}$",
         "$\\mathbb{R} - \\{-1\\}$",
         "$\\mathbb{R} - \\{-1,0,1\\}$"
       ],
@@ -351,7 +351,7 @@
     {
       "id": 24,
       "subject": "Mathematics",
-      "text": "Let $L$ be an arc of a circle which subtends $45^{\\circ}$ at the centre. If the radius of circle is 4 cm, then the length of the $L$ in centimeter is",
+      "text": "Let $L$ be an arc of a circle which subtends $45^{\\circ}$ at the centre. If the radius of circle is 4 cm, then the length of $L$ in centimeter is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -366,7 +366,7 @@
     {
       "id": 25,
       "subject": "Mathematics",
-      "text": "If A = $\\left[ \\begin{array}{ccc}1 & \\sin \\theta & 1\\\\ -\\sin \\theta & 1 & \\sin \\theta \\\\ -1 & -\\sin \\theta & 1 \\end{array} \\right]$ , ( $0 \\leq \\theta \\leq 2\\pi$ ), then the minimum value of $|A|$ is",
+      "text": "If $A = \\left[ \\begin{array}{ccc}1 & \\sin \\theta & 1\\\\ -\\sin \\theta & 1 & \\sin \\theta \\\\ -1 & -\\sin \\theta & 1 \\end{array} \\right]$ , ( $0 \\leq \\theta \\leq 2\\pi$ ), then the minimum value of $|A|$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -381,7 +381,7 @@
     {
       "id": 26,
       "subject": "Mathematics",
-      "text": "If tan $\\left(\\frac{\\pi}{4} +\\theta\\right) = \\frac{1}{2}$ then the value of sin20 is",
+      "text": "If $\\tan \\left(\\frac{\\pi}{4} +\\theta\\right) = \\frac{1}{2}$ , then the value of $\\sin 2\\theta$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -402,7 +402,7 @@
       "options": [
         "$\\sqrt{\\frac{2 + \\alpha}{2}}$",
         "$\\sqrt{\\frac{2 - \\alpha}{2}}$",
-        "$\\sqrt{\\frac{2 - \\alpha}{2}}$",
+        "$\\sqrt{\\frac{\\alpha}{2}}$",
         "$\\sqrt{\\frac{1 + \\alpha}{2}}$",
         "$\\sqrt{\\frac{1 - \\alpha}{2}}$"
       ],
@@ -411,7 +411,7 @@
     {
       "id": 28,
       "subject": "Mathematics",
-      "text": "The value of cos-1 $\\cos^{-1}\\left(\\frac{-\\sqrt{3}}{2}\\right) + \\sin^{-1}\\left(\\frac{1}{2}\\right)$ is equal to",
+      "text": "The value of $\\cos^{-1}\\left(\\frac{-\\sqrt{3}}{2}\\right) + \\sin^{-1}\\left(\\frac{1}{2}\\right)$ is equal to",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -456,7 +456,7 @@
     {
       "id": 31,
       "subject": "Mathematics",
-      "text": "If the points (3,-2), (a,2), (8,8) are collinear, then the value of $\\alpha$ is",
+      "text": "If the points $(3,-2), (\\alpha,2), (8,8)$ are collinear, then the value of $\\alpha$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -471,7 +471,7 @@
     {
       "id": 32,
       "subject": "Mathematics",
-      "text": "If the slope of the line joining the points (3,4) and (-2, $\\alpha$ ) is equal to $\\frac{-2}{5}$ , then the value of $\\alpha$ is equal to",
+      "text": "If the slope of the line joining the points $(3,4)$ and $(-2, \\alpha)$ is equal to $\\frac{-2}{5}$ , then the value of $\\alpha$ is equal to",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -486,7 +486,7 @@
     {
       "id": 33,
       "subject": "Mathematics",
-      "text": "The distance of the point $P(1, - 3)$ from the line $2y - 3x = 4$ is",
+      "text": "The distance of the point $P(1, -3)$ from the line $2y - 3x = 4$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -505,11 +505,11 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "8,4",
-        "8,-4",
-        "-8,-4",
-        "8",
-        "-8,4"
+        "$8,4$",
+        "$8,-4$",
+        "$-8,-4$",
+        "$8$",
+        "$-8,4$"
       ],
       "correct_option": 4
     },
@@ -535,11 +535,11 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "(1,2), $\\sqrt{13}$",
-        "(-1,2), $\\sqrt{13}$",
-        "(-1,-1), $\\sqrt{13}$",
-        "(1,-2), $\\sqrt{13}$",
-        "(2,1), $\\sqrt{13}$"
+        "$(1,2)$, $\\sqrt{13}$",
+        "$(-1,2)$, $\\sqrt{13}$",
+        "$(-1,-1)$, $\\sqrt{13}$",
+        "$(1,-2)$, $\\sqrt{13}$",
+        "$(2,1)$, $\\sqrt{13}$"
       ],
       "correct_option": 3
     },
@@ -561,7 +561,7 @@
     {
       "id": 38,
       "subject": "Mathematics",
-      "text": "Let $\\vec{a},\\vec{b},\\vec{c}$ be such that If $\\vec{a} +\\vec{b} +\\vec{c} = \\vec{0}$ .If $|\\vec{a} | = 3,|\\vec{b} | = 4,|\\vec{c} | = 5$ then $|\\vec{a} .\\vec{b} +\\vec{b} .\\vec{c} +\\vec{c} .\\vec{a} | =$",
+      "text": "Let $\\vec{a}, \\vec{b}, \\vec{c}$ be such that $\\vec{a} + \\vec{b} + \\vec{c} = \\vec{0}$. If $|\\vec{a}| = 3, |\\vec{b}| = 4, |\\vec{c}| = 5$, then $|\\vec{a} \\cdot \\vec{b} + \\vec{b} \\cdot \\vec{c} + \\vec{c} \\cdot \\vec{a}| =$",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -576,7 +576,7 @@
     {
       "id": 39,
       "subject": "Mathematics",
-      "text": "If $\\theta$ is the angle between two vectors $\\vec{a}$ and $\\vec{b}$ such that $|\\vec{a} | = 7,|\\vec{b} | = 1$ and $|\\vec{a} \\times \\vec{b} |^2 = k^2 - (\\vec{a} .\\vec{b})^2$ then the value(s) of $k$ is/are",
+      "text": "If $\\theta$ is the angle between two vectors $\\vec{a}$ and $\\vec{b}$ such that $|\\vec{a}| = 7, |\\vec{b}| = 1$ and $|\\vec{a} \\times \\vec{b}|^2 = k^2 - (\\vec{a} \\cdot \\vec{b})^2$ then the value(s) of $k$ is/are",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -591,29 +591,29 @@
     {
       "id": 40,
       "subject": "Mathematics",
-      "text": "If $O$ is the origin and $C$ is the midpoint of $A(-2,1)$ and $B(4, - 3)$ , then $\\overrightarrow{OC}$ is",
+      "text": "If $O$ is the origin and $C$ is the midpoint of $A(-2,1)$ and $B(4, -3)$ , then $\\overrightarrow{OC}$ is",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$\\hat{\\ell} +\\hat{\\ell}$",
-        "$-\\hat{\\ell} +\\hat{\\ell}$",
-        "$\\frac{1}{2}\\hat{\\ell} +\\frac{1}{2}\\hat{\\ell}$",
-        "$\\hat{\\ell} -\\hat{\\ell}$",
-        "$-\\hat{\\ell} +\\hat{\\ell}$"
+        "$\\hat{i} + \\hat{j}$",
+        "$-\\hat{i} + \\hat{j}$",
+        "$\\frac{1}{2}\\hat{i} + \\frac{1}{2}\\hat{j}$",
+        "$\\hat{i} - \\hat{j}$",
+        "$-\\hat{i} - \\hat{j}$"
       ],
       "correct_option": 3
     },
     {
       "id": 41,
       "subject": "Mathematics",
-      "text": "If $\\vec{a} = \\hat{\\ell} +\\hat{\\ell} +\\hat{k}$ and $\\vec{b} = \\hat{\\ell} -\\hat{\\ell} +\\hat{k}$ , then the projection of $\\vec{a}$ on $\\vec{b}$ is",
+      "text": "If $\\vec{a} = \\hat{i} + \\hat{j} + \\hat{k}$ and $\\vec{b} = \\hat{i} - \\hat{j} + \\hat{k}$ , then the projection of $\\vec{a}$ on $\\vec{b}$ is",
       "has_image": false,
       "image_path": "",
       "options": [
         "$\\sqrt{3}$",
         "$\\frac{1}{\\sqrt{3}}$",
         "$\\frac{-1}{\\sqrt{3}}$",
-        "-√3",
+        "$-\\sqrt{3}$",
         "$\\frac{1}{3}$"
       ],
       "correct_option": 1
@@ -644,14 +644,14 @@
         "$\\frac{x-a}{1} = \\frac{y-b}{0} = \\frac{z-c}{0}$",
         "$\\frac{x-a}{0} = \\frac{y-b}{1} = \\frac{z-c}{0}$",
         "$\\frac{x-a}{1} = \\frac{y-b}{1} = \\frac{z-c}{0}$",
-        "$\\frac{x-a}{0} = \\frac{y-b}{0} = \\frac{z-c}{1}$"
+        "$\\frac{x-a}{1} = \\frac{y-b}{1} = \\frac{z-c}{1}$"
       ],
       "correct_option": 0
     },
     {
       "id": 44,
       "subject": "Mathematics",
-      "text": "The equation of a line passing through the point (1,-2,3) and equally inclined to the axes are",
+      "text": "The equation of a line passing through the point $(1,-2,3)$ and equally inclined to the axes are",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -696,7 +696,7 @@
     {
       "id": 47,
       "subject": "Mathematics",
-      "text": "If the variance of 1,2,3,...,n is 10, then the value of n is",
+      "text": "If the variance of $1,2,3,\\dots,n$ is 10, then the value of $n$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -711,7 +711,7 @@
     {
       "id": 48,
       "subject": "Mathematics",
-      "text": "If $P(A) = \\frac{1}{4}, P(B) = \\frac{1}{5}$ and $P(A \\cap B) = \\frac{1}{8}$ , then $P(A' / B') = (A'$ and $B'$ denote the complements of A and B respectively)",
+      "text": "If $P(A) = \\frac{1}{4}, P(B) = \\frac{1}{5}$ and $P(A \\cap B) = \\frac{1}{8}$ , then $P(A' \\mid B') =$ ($A'$ and $B'$ denote the complements of $A$ and $B$ respectively)",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -730,7 +730,7 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "$\\frac{11}{2}$",
+        "$\\frac{9}{2}$",
         "2",
         "6",
         "$\\frac{11}{2}$",
@@ -760,18 +760,18 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "-2",
-        "-√2",
-        "√2",
-        "1",
-        "2"
+        "$-2$",
+        "$-\\sqrt{2}$",
+        "$\\sqrt{2}$",
+        "$1$",
+        "$2$"
       ],
       "correct_option": 2
     },
     {
       "id": 52,
       "subject": "Mathematics",
-      "text": "The positive integer n, such that $\\lim_{x \\to 3} \\frac{x^n - 3^n}{x - 3} = 108$",
+      "text": "The positive integer $n$, such that $\\lim_{x \\to 3} \\frac{x^n - 3^n}{x - 3} = 108$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -786,7 +786,7 @@
     {
       "id": 53,
       "subject": "Mathematics",
-      "text": "Let $\\lim_{x \\to a} f(x) g(x) = 16$ and $\\lim_{x \\to a} \\frac{f(x)}{g(x)} = 4$ If both $\\lim_{x \\to a} f(x)$ and $\\lim_{x \\to a} g(x)$ exists, then $\\lim_{x \\to a} f[(x) + g(x)] =$",
+      "text": "Let $\\lim_{x \\to a} f(x) g(x) = 16$ and $\\lim_{x \\to a} \\frac{f(x)}{g(x)} = 4$. If both $\\lim_{x \\to a} f(x)$ and $\\lim_{x \\to a} g(x)$ exist, then $\\lim_{x \\to a} [f(x) + g(x)] =$",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -801,7 +801,7 @@
     {
       "id": 54,
       "subject": "Mathematics",
-      "text": "If $f(1) = 2; f'(1) = 1$ , then $\\lim_{x \\to 1} \\left[\\frac{xf(1) - f(x)}{x - 1}\\right] =$",
+      "text": "If $f(1) = 2$, $f'(1) = 1$ , then $\\lim_{x \\to 1} \\left[\\frac{x f(1) - f(x)}{x - 1}\\right] =$",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -816,7 +816,7 @@
     {
       "id": 55,
       "subject": "Mathematics",
-      "text": "Let $f(x)$ and $g(x)$ be twice differentiable functions defined on [0,2] such that $f^{\\prime}(x) - g^{\\prime \\prime}(x) = 0,f^{\\prime}(1) = 4,g^{\\prime}(1) = 2,f(2) = 9,g(2) = 3.$ At $x = 3 / 2,f(x) - g(x) =$",
+      "text": "Let $f(x)$ and $g(x)$ be twice differentiable functions defined on $[0,2]$ such that $f''(x) - g''(x) = 0$, $f'(1) = 4$, $g'(1) = 2$, $f(2) = 9$, $g(2) = 3$. At $x = \\frac{3}{2}$, $f(x) - g(x) =$",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -852,9 +852,9 @@
       "options": [
         "$e^{3} + 27\\log_{e}3 + 54$",
         "$e^{3} + 27\\log_{e}3 + 27$",
-        "$3^{3} + e^{3} + 27\\log_{e}3 + 27$",
+        "$3^{3} + e^{3} + 54\\log_{e}3 + 54$",
         "$3^{3} + e^{3} + 27\\log_{e}3 + 54$",
-        "$3^{3} + e^{3} + 27\\log_{e}3 + 54$"
+        "$e^{3} + 54\\log_{e}3 + 27$"
       ],
       "correct_option": 0
     },
@@ -884,7 +884,7 @@
         "$\\frac{1 + \\log_{e}10}{x}$",
         "$x + \\log_{10}e$",
         "$x + \\log_{e}10$",
-        "$\\frac{1}{x} [\\frac{1}{\\log_{e}10} +1]$"
+        "$\\frac{1}{x} \\left[\\frac{1}{\\log_{e}10} + 1\\right]$"
       ],
       "correct_option": 4
     },
@@ -895,18 +895,18 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "(-2,0) and $[1,\\infty)$",
-        "[-1,0] and $[2,\\infty)$",
-        "[-1,0] and $[1,\\infty)$",
-        "(-2,0] and $[0,\\infty)$",
-        "[-2,0] and $(1,\\infty)$"
+        "$(-2,0)$ and $[1,\\infty)$",
+        "$[-1,0]$ and $[2,\\infty)$",
+        "$[-1,0]$ and $[1,\\infty)$",
+        "$(-2,0]$ and $[0,\\infty)$",
+        "$[-2,0]$ and $(1,\\infty)$"
       ],
       "correct_option": 2
     },
     {
       "id": 61,
       "subject": "Mathematics",
-      "text": "If the rate of increase of the radius of circle 5 cm/sec, then the rate of increase of its area when the radius is 20 cms, will be",
+      "text": "If the rate of increase of the radius of circle is $5$ cm/sec, then the rate of increase of its area when the radius is $20$ cm will be",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -921,7 +921,7 @@
     {
       "id": 62,
       "subject": "Mathematics",
-      "text": "If the function $f(x) = x^{2} + ax + 1$ is increasing on [1,2], then $\\alpha$ is greater than or equal to",
+      "text": "If the function $f(x) = x^{2} + ax + 1$ is increasing on $[1,2]$, then $a$ is greater than or equal to",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -936,7 +936,7 @@
     {
       "id": 63,
       "subject": "Mathematics",
-      "text": "The absolute maximum value of the function $f(x) = x^{3} - 3x + 2$ in [0,2] is",
+      "text": "The absolute maximum value of the function $f(x) = x^{3} - 3x + 2$ in $[0,2]$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -951,7 +951,7 @@
     {
       "id": 64,
       "subject": "Mathematics",
-      "text": "If $\\int \\left(3t^{2}sin(\\frac{1}{t}) - tcos(\\frac{1}{t})dt = f(t)sin(\\frac{1}{t}) + c\\right.$ then $f(2)$ is equal to",
+      "text": "If $\\int \\left(3t^{2}\\sin\\left(\\frac{1}{t}\\right) - t\\cos\\left(\\frac{1}{t}\\right)\\right)dt = f(t)\\sin\\left(\\frac{1}{t}\\right) + c$ then $f(2)$ is equal to",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -987,46 +987,46 @@
       "options": [
         "$e^{x}\\cot x + C$",
         "$-e^{x}\\cot x + C$",
-        "$e^{x}\\cot \\frac{x}{2} +C$",
-        "$-e^{x}\\cot \\frac{x}{2} +C$",
-        "$2e^{x}\\cot \\frac{x}{2} +C$"
+        "$e^{x}\\cot \\frac{x}{2} + C$",
+        "$-e^{x}\\cot \\frac{x}{2} + C$",
+        "$2e^{x}\\cot \\frac{x}{2} + C$"
       ],
       "correct_option": 3
     },
     {
       "id": 67,
       "subject": "Mathematics",
-      "text": "If $u = \\int e^{x}\\cos x dx, v = \\int e^{x}\\sin x dx,$ then $u + v =$",
+      "text": "If $u = \\int e^{x}\\cos x \\, dx$, $v = \\int e^{x}\\sin x \\, dx$, then $u + v =$",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$-u^{\\prime} + C$",
-        "$u^{\\prime} + C$",
-        "$-v^{\\prime} + C$",
-        "$v^{\\prime} + C$",
-        "$2v^{\\prime} + C$"
+        "$-u' + C$",
+        "$u' + C$",
+        "$-v' + C$",
+        "$v' + C$",
+        "$2v' + C$"
       ],
       "correct_option": 3
     },
     {
       "id": 68,
       "subject": "Mathematics",
-      "text": "$\\int \\sin^{3}x e^{l}\\log \\cos x d x =$",
+      "text": "$\\int \\sin^{3}x \\, e^{\\log \\cos x} \\, dx =$",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$\\frac{\\cos^{4}x}{4} +C$",
-        "$\\frac{-\\cos^{4}x}{4} +C$",
-        "$\\frac{x\\cos^{4}x}{4} +C$",
-        "$\\frac{\\sin^{4}x}{4} +C$",
-        "$\\frac{-\\sin^{4}x}{4} +C$"
+        "$\\frac{\\cos^{4}x}{4} + C$",
+        "$\\frac{-\\cos^{4}x}{4} + C$",
+        "$\\frac{x\\cos^{4}x}{4} + C$",
+        "$\\frac{\\sin^{4}x}{4} + C$",
+        "$\\frac{-\\sin^{4}x}{4} + C$"
       ],
       "correct_option": 3
     },
     {
       "id": 69,
       "subject": "Mathematics",
-      "text": "If $\\int_{a}^{b}x^{3}d x = 0$ and $\\int_{a}^{b}x^{2}d x = \\frac{2}{3},$ then the values of $a$ and $b$ respectively are",
+      "text": "If $\\int_{a}^{b}x^{3}dx = 0$ and $\\int_{a}^{b}x^{2}dx = \\frac{2}{3}$, then the values of $a$ and $b$ respectively are",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1056,14 +1056,14 @@
     {
       "id": 71,
       "subject": "Mathematics",
-      "text": "The area of the region bounded by the lines, $y = x + 2, x = 0, x = 1$ and $y = 0$ is",
+      "text": "The area of the region bounded by the lines $y = x + 2$, $x = 0$, $x = 1$ and $y = 0$ is",
       "has_image": false,
       "image_path": "",
       "options": [
         "2 sq.units",
         "5 sq.units",
         "9 sq.units",
-        "9 sq.units",
+        "6 sq.units",
         "12 sq.units"
       ],
       "correct_option": 1
@@ -1071,29 +1071,29 @@
     {
       "id": 72,
       "subject": "Mathematics",
-      "text": "$\\int_{1}^{\\pi /4} \\sqrt{1 + \\sin 2x} dx =$",
+      "text": "$\\int_{1}^{\\pi /4} \\sqrt{1 + \\sin 2x} \\, dx =$",
       "has_image": false,
       "image_path": "",
       "options": [
         "1",
-        "$\\sqrt{2} +1$",
-        "$\\sqrt{2} -1$",
-        "1-√2",
-        "-√2"
+        "$\\sqrt{2} + 1$",
+        "$\\sqrt{2} - 1$",
+        "$1 - \\sqrt{2}$",
+        "$-\\sqrt{2}$"
       ],
       "correct_option": 0
     },
     {
       "id": 73,
       "subject": "Mathematics",
-      "text": "The solution of $(e^y + 1) \\cos x dx + e^y \\sin x dy = 0$ is",
+      "text": "The solution of $(e^y + 1) \\cos x \\, dx + e^y \\sin x \\, dy = 0$ is",
       "has_image": false,
       "image_path": "",
       "options": [
         "$(e^y + 1) \\sin x = C$",
         "$(e^y + 1) = C \\sin x$",
         "$e^y = C \\sin x$",
-        "$e^y(1+\\sin x) = C$",
+        "$e^y(1 + \\sin x) = C$",
         "$(e^y + 1) \\cos x = C$"
       ],
       "correct_option": 0
@@ -1101,30 +1101,30 @@
     {
       "id": 74,
       "subject": "Mathematics",
-      "text": "The function $y = be^{x} + ae^{-x}$ , $a$ and $b$ are constants, is a solution of",
+      "text": "The function $y = b e^{x} + a e^{-x}$ , $a$ and $b$ are constants, is a solution of",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$y^{\\prime \\prime} + y = 0$",
-        "$y^{\\prime \\prime} - y = 0$",
-        "$y^{\\prime \\prime} + x = 0$",
-        "$y^{\\prime \\prime} - 2y = 0$",
-        "$y^{\\prime \\prime} + xy = 0$"
+        "$y'' + y = 0$",
+        "$y'' - y = 0$",
+        "$y'' + x = 0$",
+        "$y'' - 2y = 0$",
+        "$y'' + xy = 0$"
       ],
       "correct_option": 1
     },
     {
       "id": 75,
       "subject": "Mathematics",
-      "text": "Which one of the following point is not in a feasible region bounded by the inequalities $x \\leq 4,y\\leq 6,x + y\\leq 6,x\\geq 0,y\\geq 0$",
+      "text": "Which one of the following points is not in the feasible region bounded by the inequalities $x \\leq 4, y \\leq 6, x + y \\leq 6, x \\geq 0, y \\geq 0$?",
       "has_image": false,
       "image_path": "",
       "options": [
-        "(0,0)",
-        "(4,0)",
-        "(4,2)",
-        "(0,6)",
-        "(6,0)"
+        "$(0,0)$",
+        "$(4,0)$",
+        "$(4,2)$",
+        "$(0,6)$",
+        "$(6,0)$"
       ],
       "correct_option": 4
     },
@@ -1138,7 +1138,7 @@
         "energy",
         "bulk modulus",
         "power",
-        "gas constant R",
+        "gas constant $R$",
         "thermal conductivity"
       ],
       "correct_option": 3
@@ -1146,7 +1146,7 @@
     {
       "id": 77,
       "subject": "Physics",
-      "text": "Taking into consideration of significant figures, in the conversion relation $2.0 \\mathrm{ms}^{-2} = \\mathrm{X} \\mathrm{km} \\mathrm{h}^{-2}$ , the value of $X$ is",
+      "text": "Taking into consideration of significant figures, in the conversion relation $2.0 \\mathrm{ms}^{-2} = X \\mathrm{km} \\mathrm{h}^{-2}$ , the value of $X$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1167,31 +1167,31 @@
       "options": [
         "10 km",
         "20 km",
-        "$10\\sqrt{5}\\mathrm{km}$",
-        "$10\\sqrt{2}\\mathrm{km}$",
-        "$20\\sqrt{5}\\mathrm{km}$"
+        "$10\\sqrt{5} \\mathrm{km}$",
+        "$10\\sqrt{2} \\mathrm{km}$",
+        "$20\\sqrt{5} \\mathrm{km}$"
       ],
       "correct_option": 2
     },
     {
       "id": 79,
       "subject": "Physics",
-      "text": "If the angular speed of a particle moving in a circular path of radius 1.2 m is increased from 2 rads$^{-1}$ to 4 rads$^{-1}$ keeping its radius constant, then its linear speed is increased by",
+      "text": "If the angular speed of a particle moving in a circular path of radius 1.2 m is increased from 2 rad s$^{-1}$ to 4 rad s$^{-1}$ keeping its radius constant, then its linear speed is increased by",
       "has_image": false,
       "image_path": "",
       "options": [
-        "1.6 ms$^{-1}$",
-        "2.4 ms$^{-1}$",
-        "3.6 ms$^{-1}$",
-        "4.8 ms$^{-1}$",
-        "6 ms$^{-1}$"
+        "1.6 m s$^{-1}$",
+        "2.4 m s$^{-1}$",
+        "3.6 m s$^{-1}$",
+        "4.8 m s$^{-1}$",
+        "6 m s$^{-1}$"
       ],
       "correct_option": 1
     },
     {
       "id": 80,
       "subject": "Physics",
-      "text": "If the position vector of a particle is $\\vec{r} = 2t\\hat{i} +\\sqrt{3} t^{2}\\hat{j} +5\\hat{k}$ with $\\vec{r}$ in m and t in s, then at $t = 1s$ the angle made by the velocity vector with $x$ -axis is",
+      "text": "If the position vector of a particle is $\\vec{r} = 2t\\hat{i} + \\sqrt{3} t^{2}\\hat{j} + 5\\hat{k}$ with $\\vec{r}$ in m and $t$ in s, then at $t = 1$ s the angle made by the velocity vector with the $x$-axis is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1206,7 +1206,7 @@
     {
       "id": 81,
       "subject": "Physics",
-      "text": "If the maximum acceleration of a moving platform to keep a box of mass 5 kg on it without sliding is $3ms^{- 1}$ , then the static friction between the box and floor of the platform is $(g = 10ms^{- 2})$",
+      "text": "If the maximum acceleration of a moving platform to keep a box of mass 5 kg on it without sliding is 3 m s$^{-2}$, then the coefficient of static friction between the box and floor of the platform is ($g = 10$ m s$^{-2}$)",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1221,7 +1221,7 @@
     {
       "id": 82,
       "subject": "Physics",
-      "text": "If 10 identical silver coins each of mass $m$ are placed one over the other, then force on the $6^{\\text{th}}$ coin from the bottom is",
+      "text": "If 10 identical silver coins each of mass $m$ are placed one over the other, then the force on the $6^{\\text{th}}$ coin from the bottom is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1251,7 +1251,7 @@
     {
       "id": 84,
       "subject": "Physics",
-      "text": "If a proton, a deuteron and an $\\alpha$ -particle have the same speed, then the kinetic energy is",
+      "text": "If a proton, a deuteron and an $\\alpha$-particle have the same speed, then the kinetic energy is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1259,14 +1259,14 @@
         "the lowest for proton",
         "the highest for deuteron",
         "same for proton and deuteron",
-        "the lowest for $\\alpha$ -particle"
+        "the lowest for $\\alpha$-particle"
       ],
       "correct_option": 1
     },
     {
       "id": 85,
       "subject": "Physics",
-      "text": "The moment of inertia of a system of two masses $2kg$ and $4kg$ lying in the $x - y$ plane at distances, $2m$ and $4m$ , respectively from the origin about the $z$ -axis is (in $\\mathrm{kgm}^2$ )",
+      "text": "The moment of inertia of a system of two masses $2$ kg and $4$ kg lying in the $x-y$ plane at distances $2$ m and $4$ m, respectively, from the origin about the $z$-axis is (in kg m$^2$)",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1281,7 +1281,7 @@
     {
       "id": 86,
       "subject": "Physics",
-      "text": "A swimmer jumps from a height is able to increase the number of loops made in air by",
+      "text": "A swimmer jumps from a height and is able to increase the number of loops made in air by",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1296,7 +1296,7 @@
     {
       "id": 87,
       "subject": "Physics",
-      "text": "The ratio of the weights of an object of mass m at a height R and 2R from the surface of earth is (R is the radius of earth)",
+      "text": "The ratio of the weights of an object of mass $m$ at a height $R$ and $2R$ from the surface of earth is ($R$ is the radius of earth)",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1311,45 +1311,45 @@
     {
       "id": 88,
       "subject": "Physics",
-      "text": "If the magnitude of gravitational potential energy of an object of mass $200kg$ at a height of $3.6\\times 10^{6}m$ from the earth surface is $6\\times 10^{6}J$ then its value at a height of $5.6\\times 10^{6}m$ is (Radius of earth is $6.4\\times 10^{6}m$)",
+      "text": "If the magnitude of gravitational potential energy of an object of mass $200$ kg at a height of $3.6\\times 10^{6}$ m from the earth's surface is $6\\times 10^{6}$ J, then its value at a height of $5.6\\times 10^{6}$ m is (Radius of earth is $6.4\\times 10^{6}$ m)",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$5\\times 10^{6}J$",
-        "$4\\times 10^{6}J$",
-        "$3\\times 10^{6}J$",
-        "$2\\times 10^{6}J$",
-        "$10^{6}J$"
+        "$5\\times 10^{6}$ J",
+        "$4\\times 10^{6}$ J",
+        "$3\\times 10^{6}$ J",
+        "$2\\times 10^{6}$ J",
+        "$10^{6}$ J"
       ],
       "correct_option": 0
     },
     {
       "id": 89,
       "subject": "Physics",
-      "text": "The force required to increase the length of a thin copper wire of cross- sectional area 0.1 cm² by 0.1 % is (Young's modulus of copper is $11\\times 10^{10}Nm^{- 2}$)",
+      "text": "The force required to increase the length of a thin copper wire of cross-sectional area 0.1 cm² by 0.1% is (Young's modulus of copper is $11\\times 10^{10}$ N m$^{-2}$)",
       "has_image": false,
       "image_path": "",
       "options": [
         "550 N",
-        "$11\\times 10^{4}N$",
-        "$10.5\\times 10^{3}N$",
+        "$11\\times 10^{4}$ N",
+        "$10.5\\times 10^{3}$ N",
         "1100 N",
-        "$5.5\\times 10^{3}N$"
+        "$5.5\\times 10^{3}$ N"
       ],
       "correct_option": 3
     },
     {
       "id": 90,
       "subject": "Physics",
-      "text": "If a huge tank has a small side hole at a depth of 2 m from the surface of water, then the velocity of water flowing through the hole is ( $g = 10ms^{- 2}$)",
+      "text": "If a huge tank has a small side hole at a depth of 2 m from the surface of water, then the velocity of water flowing through the hole is ($g = 10$ m s$^{-2}$)",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$2\\sqrt{5} ms^{-1}$",
-        "$2\\sqrt{10} ms^{-1}$",
-        "$\\sqrt{10} ms^{-1}$",
-        "$4\\sqrt{10} ms^{-1}$",
-        "$4\\sqrt{5} ms^{-1}$"
+        "$2\\sqrt{5}$ m s$^{-1}$",
+        "$2\\sqrt{10}$ m s$^{-1}$",
+        "$\\sqrt{10}$ m s$^{-1}$",
+        "$4\\sqrt{10}$ m s$^{-1}$",
+        "$4\\sqrt{5}$ m s$^{-1}$"
       ],
       "correct_option": 0
     },
@@ -1371,15 +1371,15 @@
     {
       "id": 92,
       "subject": "Physics",
-      "text": "If the temperature of 2 moles of krypton gas is increased from $-11^{\\circ}C$ to $89^{\\circ}C$ at constant volume, then (specific heat at constant volume of krypton is $\\mathbb{C}_{\\mathbb{V}}$)",
+      "text": "If the temperature of 2 moles of krypton gas is increased from $-11^{\\circ}C$ to $89^{\\circ}C$ at constant volume, then (specific heat at constant volume of krypton is $C_V$)",
       "has_image": false,
       "image_path": "",
       "options": [
         "work done on the gas is not zero",
         "internal energy is not changed",
         "work is done by the gas",
-        "amount of heat added is $200~\\mathrm{C}_{\\mathrm{V}}$",
-        "internal energy is increased by $100~\\mathrm{C}_{\\mathrm{V}}$"
+        "amount of heat added is $200~C_V$",
+        "internal energy is increased by $100~C_V$"
       ],
       "correct_option": 3
     },
@@ -1401,22 +1401,22 @@
     {
       "id": 94,
       "subject": "Physics",
-      "text": "Two perfect monoatomic gases at temperatures $300K$ and $410K$ are mixed without any loss of heat. If $10^{24}$ and $10^{23}$ are the number of molecules in the respective gases, then the temperature of the mixture is",
+      "text": "Two perfect monoatomic gases at temperatures $300$ K and $410$ K are mixed without any loss of heat. If $10^{24}$ and $10^{23}$ are the number of molecules in the respective gases, then the temperature of the mixture is",
       "has_image": false,
       "image_path": "",
       "options": [
-        "340K",
-        "310K",
-        "360K",
-        "350K",
-        "370K"
+        "340 K",
+        "310 K",
+        "360 K",
+        "350 K",
+        "370 K"
       ],
       "correct_option": 1
     },
     {
       "id": 95,
       "subject": "Physics",
-      "text": "If the temperature $T$ of oxygen molecule is raised to $9T$ , then its root mean square speed $v$ is increased to",
+      "text": "If the temperature $T$ of an oxygen molecule is raised to $9T$ , then its root mean square speed $v$ is increased to",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1431,7 +1431,7 @@
     {
       "id": 96,
       "subject": "Physics",
-      "text": "For a particle executing simple harmonic motion with amplitude $A$ and time period $T$ along $x$ - axis, the time taken by the particle to move from $x = 0$ to $x = A$ is",
+      "text": "For a particle executing simple harmonic motion with amplitude $A$ and time period $T$ along the $x$-axis, the time taken by the particle to move from $x = 0$ to $x = A$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1446,7 +1446,7 @@
     {
       "id": 97,
       "subject": "Physics",
-      "text": "With Laplace correction in Newton's formula for the velocity of sound in gases, the velocity of sound in monoatomic gas at STP is",
+      "text": "With Laplace correction in Newton's formula for the velocity of sound in gases, the velocity of sound in a monoatomic gas at STP is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1461,7 +1461,7 @@
     {
       "id": 98,
       "subject": "Physics",
-      "text": "A, B and C are three points in space forming an equilateral triangle of side $10cm$ . If a point charge $8\\mu C$ is placed at A, then the work done in moving a unit charge from B to C is",
+      "text": "$A$, $B$ and $C$ are three points in space forming an equilateral triangle of side $10$ cm. If a point charge $8\\mu C$ is placed at $A$, then the work done in moving a unit charge from $B$ to $C$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1476,7 +1476,7 @@
     {
       "id": 99,
       "subject": "Physics",
-      "text": "Three capacitors $A,B,C$ with respective capacitance of $1\\mu \\mathrm{F},2\\mu \\mathrm{F}$ and $3\\mu \\mathrm{F}$ are connected as shown. For a given voltage source $V$ connected across them, the combination that can store the maximum energy is",
+      "text": "Three capacitors $A,B,C$ with respective capacitance of $1\\mu\\mathrm{F},2\\mu\\mathrm{F}$ and $3\\mu\\mathrm{F}$ are connected as shown. For a given voltage source $V$ connected across them, the combination that can store the maximum energy is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1491,15 +1491,15 @@
     {
       "id": 100,
       "subject": "Physics",
-      "text": "The equipotential surface of a system of two point charge $5\\mu \\mathrm{C}$ and $- 5\\mu \\mathrm{C}$ at points $A$ and $B$ separated by $80cm$ is a plane perpendicular to the line connecting $A$ and $B$ at",
+      "text": "The equipotential surface of a system of two point charges $5\\mu\\mathrm{C}$ and $-5\\mu\\mathrm{C}$ at points $A$ and $B$ separated by $80$ cm is a plane perpendicular to the line connecting $A$ and $B$ at",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$0.4m$ from A",
-        "$0.6m$ from A",
-        "$0.5m$ from A",
-        "$0.6m$ from B",
-        "$0.5m$ from B"
+        "$0.4$ m from $A$",
+        "$0.6$ m from $A$",
+        "$0.5$ m from $A$",
+        "$0.6$ m from $B$",
+        "$0.5$ m from $B$"
       ],
       "correct_option": 0
     },
@@ -1510,11 +1510,11 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "$\\pi \\in_0Ed$",
-        "$\\frac{\\pi}{2}\\in_0Ed$",
-        "$\\frac{1}{2}\\in_0Ed$",
-        "$2\\pi \\in_0 Ed$",
-        "$\\in_0 Ed$"
+        "$\\pi \\epsilon_0 E d$",
+        "$\\frac{\\pi}{2}\\epsilon_0 E d$",
+        "$\\frac{1}{2}\\epsilon_0 E d$",
+        "$2\\pi \\epsilon_0 E d$",
+        "$\\epsilon_0 E d$"
       ],
       "correct_option": 3
     },
@@ -1536,7 +1536,7 @@
     {
       "id": 103,
       "subject": "Physics",
-      "text": "The ratio of the heat produced in a $2\\Omega$ and a $4\\Omega$ resistor connected in series with a voltage source of $12V$ is",
+      "text": "The ratio of the heat produced in a $2\\Omega$ and a $4\\Omega$ resistor connected in series with a voltage source of $12$ V is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1551,15 +1551,15 @@
     {
       "id": 104,
       "subject": "Physics",
-      "text": "Three cells of $3V,4V$ and $4V$ with respective internal resistances $0.5\\Omega ,0.75\\Omega$ and $0.75\\Omega$ are connected is series to a resistor of $4\\Omega$ . Then the current in the circuit is",
+      "text": "Three cells of $3$ V, $4$ V and $4$ V with respective internal resistances $0.5\\Omega, 0.75\\Omega$ and $0.75\\Omega$ are connected in series to a resistor of $4\\Omega$ . Then the current in the circuit is",
       "has_image": false,
       "image_path": "",
       "options": [
-        "1A",
-        "0.5A",
-        "0.25A",
-        "0.75A",
-        "0.67A"
+        "1 A",
+        "0.5 A",
+        "0.25 A",
+        "0.75 A",
+        "0.67 A"
       ],
       "correct_option": 1
     },
@@ -1572,23 +1572,23 @@
       "options": [
         "a couple will act on the loop",
         "the loop will start to rotate",
-        "areal vector of the loop will be set in the direction of $\\mathbf{B}$",
-        "areal vector of the loop will be perpendicular to the direction of $\\mathbf{B}$",
-        "loop will be deflected away from the field $\\mathbf{B}$"
+        "the area vector of the loop will be set in the direction of $\\mathbf{B}$",
+        "the area vector of the loop will be perpendicular to the direction of $\\mathbf{B}$",
+        "the loop will be deflected away from the field $\\mathbf{B}$"
       ],
       "correct_option": 2
     },
     {
       "id": 106,
       "subject": "Physics",
-      "text": "A magnetic dipole of moment $M$ is placed at an angle of $60^{\\circ}$ with respect to B. The work done to turn it from $60^{\\circ}$ to $90^{\\circ}$ with respect to the field is",
+      "text": "A magnetic dipole of moment $M$ is placed at an angle of $60^{\\circ}$ with respect to $\\mathbf{B}$. The work done to turn it from $60^{\\circ}$ to $90^{\\circ}$ with respect to the field is",
       "has_image": false,
       "image_path": "",
       "options": [
-        "MB",
+        "$MB$",
         "$\\sqrt{2} MB$",
         "0",
-        "2MB",
+        "$2MB$",
         "$\\frac{MB}{2}$"
       ],
       "correct_option": 4
@@ -1596,7 +1596,7 @@
     {
       "id": 107,
       "subject": "Physics",
-      "text": "The flow of current of 2A through a straight solenoid of length 2 m produces a magnetic field of $2\\pi \\times 10^{-4}\\mathrm{T}$ at its centre. Then the number of turns in the solenoid is",
+      "text": "The flow of current of 2 A through a straight solenoid of length 2 m produces a magnetic field of $2\\pi \\times 10^{-4}$ T at its centre. Then the number of turns in the solenoid is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1611,7 +1611,7 @@
     {
       "id": 108,
       "subject": "Physics",
-      "text": "A wire of length 4 m carrying a current of 1 A is bent to form a circular loop. The magnetic moment of the loop (in Am2) is",
+      "text": "A wire of length 4 m carrying a current of 1 A is bent to form a circular loop. The magnetic moment of the loop (in A m$^2$) is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1626,7 +1626,7 @@
     {
       "id": 109,
       "subject": "Physics",
-      "text": "The plane of a circular loop of area $150cm^2$ is perpendicular to a uniform magnetic field of 0.5 T. If the loop is turned such that its plane is in the direction of the field in $0.5s$ , then the induced emf produced is",
+      "text": "The plane of a circular loop of area $150$ cm$^2$ is perpendicular to a uniform magnetic field of 0.5 T. If the loop is turned such that its plane is in the direction of the field in $0.5$ s, then the induced emf produced is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1641,15 +1641,15 @@
     {
       "id": 110,
       "subject": "Physics",
-      "text": "A transformer $A$ of turns ratio $2:1$ and another transformer $B$ of turns ratio $1:2$ are connected. The secondary output obtained from A is given as the primary input voltage for B. If the primary ac voltage of A is 200 V, then the secondary voltage from B is",
+      "text": "A transformer $A$ of turns ratio $2:1$ and another transformer $B$ of turns ratio $1:2$ are connected. The secondary output obtained from $A$ is given as the primary input voltage for $B$. If the primary ac voltage of $A$ is 200 V, then the secondary voltage from $B$ is",
       "has_image": false,
       "image_path": "",
       "options": [
-        "100V",
-        "200V",
-        "50V",
-        "400V",
-        "500V"
+        "100 V",
+        "200 V",
+        "50 V",
+        "400 V",
+        "500 V"
       ],
       "correct_option": 2
     },
@@ -1671,7 +1671,7 @@
     {
       "id": 112,
       "subject": "Physics",
-      "text": "An object placed at 10 cm in front of a concave mirror of focal length of 8 cm gives image of magnification of",
+      "text": "An object placed at 10 cm in front of a concave mirror of focal length 8 cm gives an image of magnification",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1701,7 +1701,7 @@
     {
       "id": 114,
       "subject": "Physics",
-      "text": "The fringe width obtained in a given Young's double slit experimental set up for red light, blue light and green light are, respectively, $\\beta_{\\mathrm{R}}$ , $\\beta_{\\mathrm{B}}$ and $\\beta_{\\mathrm{G}}$ . Then",
+      "text": "The fringe width obtained in a given Young's double slit experimental set up for red light, blue light and green light are, respectively, $\\beta_{\\mathrm{R}}$, $\\beta_{\\mathrm{B}}$ and $\\beta_{\\mathrm{G}}$ . Then",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1720,11 +1720,11 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "64V",
-        "200V",
-        "100V",
-        "160V",
-        "36V"
+        "64 V",
+        "200 V",
+        "100 V",
+        "160 V",
+        "36 V"
       ],
       "correct_option": 2
     },
@@ -1761,7 +1761,7 @@
     {
       "id": 118,
       "subject": "Physics",
-      "text": "The difference in magnitudes of angular momentum of the electrons revolving in $5^{\\text{th}}$ Bohr's orbit and $3^{\\text{rd}}$ Bohr's orbit of hydrogen atom is",
+      "text": "The difference in magnitudes of angular momentum of the electrons revolving in the $5^{\\text{th}}$ Bohr's orbit and the $3^{\\text{rd}}$ Bohr's orbit of hydrogen atom is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1782,8 +1782,8 @@
       "options": [
         "indium becomes an n-type semiconductor",
         "antimony becomes a p-type semiconductor",
-        "phosphorus becomes a n-type semiconductor",
-        "boron becomes a n-type semiconductor",
+        "phosphorus becomes an n-type semiconductor",
+        "boron becomes an n-type semiconductor",
         "arsenic becomes a p-type semiconductor"
       ],
       "correct_option": 2
@@ -1806,7 +1806,7 @@
     {
       "id": 121,
       "subject": "Chemistry",
-      "text": "The empirical formula of a metal oxide which has $54\\%$ metal (M) and $46\\%$ oxygen (O) is (Atomic mass of $\\mathbf{M} = 27$ amu and $\\mathrm{O} = 16$ amu)",
+      "text": "The empirical formula of a metal oxide which has $54\\%$ metal (M) and $46\\%$ oxygen (O) is (Atomic mass of $\\mathrm{M} = 27$ amu and $\\mathrm{O} = 16$ amu)",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1821,14 +1821,14 @@
     {
       "id": 122,
       "subject": "Chemistry",
-      "text": "The threshold wavelength of a metal is $6000\\mathrm{A}^\\circ$ . The work function of the metal is ( $\\mathrm{h} = 6.62\\times 10^{- 34}\\mathrm{J}\\mathrm{s}$)",
+      "text": "The threshold wavelength of a metal is $6000 \\mathrm{A}^\\circ$ . The work function of the metal is ( $\\mathrm{h} = 6.62\\times 10^{-34} \\mathrm{J}\\mathrm{s}$ )",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$3.31\\times 10^{19}\\mathrm{J}$",
-        "$3.31\\times 10^{-19}\\mathrm{J}$",
+        "$3.31\\times 10^{19} \\mathrm{J}$",
+        "$3.31\\times 10^{-19} \\mathrm{J}$",
         "$13.2 \\times 10^{-19} \\mathrm{J}$",
-        "$13.2 \\times 10^{-19} \\mathrm{J}$",
+        "$6.62 \\times 10^{-19} \\mathrm{J}$",
         "$1.5 \\times 10^{-19} \\mathrm{J}$"
       ],
       "correct_option": 1
@@ -1836,7 +1836,7 @@
     {
       "id": 123,
       "subject": "Chemistry",
-      "text": "The radius of the first orbit $\\mathsf{He}^{+}$ is",
+      "text": "The radius of the first orbit of $\\mathrm{He}^{+}$ is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1851,7 +1851,7 @@
     {
       "id": 124,
       "subject": "Chemistry",
-      "text": "In Mosley experiment, the X-ray spectrum is obtained by plotting",
+      "text": "In Moseley's experiment, the X-ray spectrum is obtained by plotting",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1885,18 +1885,18 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "$\\mathrm{NF}_3< \\mathrm{CHCl}_3< \\mathrm{NH}_3< \\mathrm{H}_2\\mathrm{O}$",
-        "$\\mathrm{NF}_3< \\mathrm{CHCl}_3< \\mathrm{H}_2\\mathrm{O}< \\mathrm{NH}_3$",
-        "$\\mathrm{H}_2\\mathrm{O}< \\mathrm{NF}_3< \\mathrm{CHCl}_3< \\mathrm{NH}_3$",
-        "$\\mathrm{CHCl}_3< \\mathrm{NF}_3< \\mathrm{H}_2\\mathrm{O}< \\mathrm{NH}_3$",
-        "$\\mathrm{NH}_3< \\mathrm{NF}_3< \\mathrm{CHCl}_3< \\mathrm{H}_2\\mathrm{O}$"
+        "$\\mathrm{NF}_3 < \\mathrm{CHCl}_3 < \\mathrm{NH}_3 < \\mathrm{H}_2\\mathrm{O}$",
+        "$\\mathrm{NF}_3 < \\mathrm{CHCl}_3 < \\mathrm{H}_2\\mathrm{O} < \\mathrm{NH}_3$",
+        "$\\mathrm{H}_2\\mathrm{O} < \\mathrm{NF}_3 < \\mathrm{CHCl}_3 < \\mathrm{NH}_3$",
+        "$\\mathrm{CHCl}_3 < \\mathrm{NF}_3 < \\mathrm{H}_2\\mathrm{O} < \\mathrm{NH}_3$",
+        "$\\mathrm{NH}_3 < \\mathrm{NF}_3 < \\mathrm{CHCl}_3 < \\mathrm{H}_2\\mathrm{O}$"
       ],
       "correct_option": 0
     },
     {
       "id": 127,
       "subject": "Chemistry",
-      "text": "The number of bonding pairs and lone pairs of electrons in $\\mathsf{BrF}_5$ molecule are respectively",
+      "text": "The number of bonding pairs and lone pairs of electrons in $\\mathrm{BrF}_5$ molecule are respectively",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -1911,13 +1911,13 @@
     {
       "id": 128,
       "subject": "Chemistry",
-      "text": "Which of the following bond has highest mean bond enthalpy?",
+      "text": "Which of the following bonds has the highest mean bond enthalpy?",
       "has_image": false,
       "image_path": "",
       "options": [
         "N=N",
         "O=O",
-        "N=N",
+        "C=N",
         "C=C",
         "C=O"
       ],
@@ -1926,30 +1926,30 @@
     {
       "id": 129,
       "subject": "Chemistry",
-      "text": "The correct increasing order of enthalpy of fusion of $\\Delta_{\\mathrm{fus}}\\mathrm{H}^{+}$ (in kJ mol $^{-1}$ ) of the following compounds is",
+      "text": "The correct increasing order of enthalpy of fusion $\\Delta_{\\mathrm{fus}}H^{\\circ}$ (in kJ mol$^{-1}$) of the following compounds is",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$\\mathrm{CH_3COCH_3< CCl_4< C_6H_6}$",
-        "$\\mathrm{CH_3COCH_3< C_6H_6< CCl_4}$",
-        "$\\mathrm{CCl_4< C_6H_6< CH_3COCH_3}$",
-        "$\\mathrm{CCl_4< CH_3COCH_3< C_6H_6}$",
-        "$\\mathrm{C_6H_6< CH_3COCH_3< CCl_4}$"
+        "$\\mathrm{CH_3COCH_3 < CCl_4 < C_6H_6}$",
+        "$\\mathrm{CH_3COCH_3 < C_6H_6 < CCl_4}$",
+        "$\\mathrm{CCl_4 < C_6H_6 < CH_3COCH_3}$",
+        "$\\mathrm{CCl_4 < CH_3COCH_3 < C_6H_6}$",
+        "$\\mathrm{C_6H_6 < CH_3COCH_3 < CCl_4}$"
       ],
       "correct_option": 3
     },
     {
       "id": 130,
       "subject": "Chemistry",
-      "text": "The solubility product, Ksp of a sparingly soluble salt, $\\mathrm{AX}_2$ , is $3.2 \\times 10^{-14} \\mathrm{~mol}^3 \\mathrm{lit}^{-3}$ . Its solubility is",
+      "text": "The solubility product, $K_{sp}$ of a sparingly soluble salt, $\\mathrm{AX}_2$ , is $3.2 \\times 10^{-14} \\mathrm{mol}^3 \\mathrm{lit}^{-3}$ . Its solubility is",
       "has_image": false,
       "image_path": "",
       "options": [
-        "$4 \\times 10^{-3} \\mathrm{~mol} \\mathrm{lit}^{-1}$",
-        "$2 \\times 10^{-2} \\mathrm{~mol} \\mathrm{lit}^{-1}$",
-        "$2 \\times 10^{-5} \\mathrm{~mol} \\mathrm{lit}^{-1}$",
-        "$8 \\times 10^{-4} \\mathrm{~mol} \\mathrm{lit}^{-1}$",
-        "$2 \\times 10^{-3} \\mathrm{~mol} \\mathrm{lit}^{-1}$"
+        "$4 \\times 10^{-3} \\mathrm{mol} \\mathrm{lit}^{-1}$",
+        "$2 \\times 10^{-2} \\mathrm{mol} \\mathrm{lit}^{-1}$",
+        "$2 \\times 10^{-5} \\mathrm{mol} \\mathrm{lit}^{-1}$",
+        "$8 \\times 10^{-4} \\mathrm{mol} \\mathrm{lit}^{-1}$",
+        "$2 \\times 10^{-3} \\mathrm{mol} \\mathrm{lit}^{-1}$"
       ],
       "correct_option": 2
     },
@@ -1960,33 +1960,33 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "(a)-(iv), (b)-(ii), (c)-(i). (d)-(ii)",
-        "(a)-(iv), (b)-(ii),(c)-(iii), (d)-(i)",
-        "(a)-(i), (b)-(iv), (c)-(iii). (d)-(ii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
         "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
-        "(a)-(iv), (b)-(iii), (c)-(ii). (d)-(i)"
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
       "correct_option": 4
     },
     {
       "id": 132,
       "subject": "Chemistry",
-      "text": "The $\\Delta \\mathrm{rG}^{\\circ}$ of the galvanic cell in which the following cell reaction takes place, $2\\mathrm{Cr(s)} + 3\\mathrm{Cd}^{2 + }(\\mathrm{aq})\\rightarrow 2\\mathrm{Cr}^{3 + }(\\mathrm{aq}) + 3\\mathrm{Cd(s)}$ is $(\\mathrm{E^{\\circ}Cr^{3 + } / Cr = - 0.74V}$ and $\\mathrm{E}^{\\circ}\\mathrm{Cd}^{2 + } / \\mathrm{Cd} = - 0.40\\mathrm{V}$)",
+      "text": "The $\\Delta_r G^{\\circ}$ of the galvanic cell in which the following cell reaction takes place, $2\\mathrm{Cr(s)} + 3\\mathrm{Cd}^{2+}(\\mathrm{aq}) \\rightarrow 2\\mathrm{Cr}^{3+}(\\mathrm{aq}) + 3\\mathrm{Cd(s)}$ is $(E^{\\circ}_{\\mathrm{Cr}^{3+}/\\mathrm{Cr}} = -0.74$ V and $E^{\\circ}_{\\mathrm{Cd}^{2+}/\\mathrm{Cd}} = -0.40$ V)",
       "has_image": false,
       "image_path": "",
       "options": [
-        "-196.86 kJ mol-1",
-        "+196.86 kJ mol-1",
-        "-96.50 kJ mol-1",
-        "+96.50 kJ mol-1",
-        "+98.12 kJ mol-1"
+        "-196.86 kJ mol$^{-1}$",
+        "+196.86 kJ mol$^{-1}$",
+        "-96.50 kJ mol$^{-1}$",
+        "+96.50 kJ mol$^{-1}$",
+        "+98.12 kJ mol$^{-1}$"
       ],
       "correct_option": 0
     },
     {
       "id": 133,
       "subject": "Chemistry",
-      "text": "The molar conductivity of a weak mono basic acid, HA at 298 K is 70 Scm2mol- 1. What is the percentage ionisation of HA at 298 K? [At infinite dilution $\\lambda_{\\mathrm{H}}^{+} = 340$ Scm2mol- 1 and $\\lambda_{\\mathrm{A}}^{- } = 80$ Scm2mol- 1]",
+      "text": "The molar conductivity of a weak monobasic acid, HA at 298 K is 70 S cm$^2$ mol$^{-1}$. What is the percentage ionisation of HA at 298 K? [At infinite dilution $\\lambda_{\\mathrm{H}^{+}} = 340$ S cm$^2$ mol$^{-1}$ and $\\lambda_{\\mathrm{A}^{-}} = 80$ S cm$^2$ mol$^{-1}$]",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -2007,54 +2007,54 @@
       "options": [
         "56.2 %",
         "11.7 %",
-        "32.1%",
-        "19.7%",
-        "21.5%"
+        "32.1 %",
+        "19.7 %",
+        "21.5 %"
       ],
       "correct_option": 1
     },
     {
       "id": 135,
       "subject": "Chemistry",
-      "text": "A first order reaction follows the equation $\\mathrm{k} = (4 \\times 10^{10} \\mathrm{~s}^{- 1}) \\mathrm{e}^{- 2000 / \\mathrm{T}}$ . The value of Ea for the reaction is about $(\\mathrm{R} = 8.314 \\mathrm{~J} \\mathrm{~K}^{- 1} \\mathrm{~mol}^{- 1})$",
+      "text": "A first order reaction follows the equation $\\mathrm{k} = (4 \\times 10^{10} \\mathrm{s}^{-1}) \\mathrm{e}^{-2000 / \\mathrm{T}}$ . The value of $E_a$ for the reaction is about $(\\mathrm{R} = 8.314 \\mathrm{J} \\mathrm{K}^{-1} \\mathrm{mol}^{-1})$",
       "has_image": false,
       "image_path": "",
       "options": [
-        "17.4kJ mol-1",
-        "18.5kJ mol-1",
-        "17.5kJ mol-1",
-        "16.6kJ mol-1",
-        "17.8kJ mol-1"
+        "17.4 kJ mol$^{-1}$",
+        "18.5 kJ mol$^{-1}$",
+        "17.5 kJ mol$^{-1}$",
+        "16.6 kJ mol$^{-1}$",
+        "17.8 kJ mol$^{-1}$"
       ],
       "correct_option": 3
     },
     {
       "id": 136,
       "subject": "Chemistry",
-      "text": "In a pseudo first order reaction, the following results were obtained. Time /s: 0 10 20 30 40 50 60 [A]/mol lit-1: 0.65 0.55 0.46 0.38 0.26 0.2 0.13 Average rate of the reaction between 20 and 40 seconds is",
+      "text": "In a pseudo first order reaction, the following results were obtained. Time /s: 0 10 20 30 40 50 60 [A]/mol lit$^{-1}$: 0.65 0.55 0.46 0.38 0.26 0.2 0.13 Average rate of the reaction between 20 and 40 seconds is",
       "has_image": false,
       "image_path": "",
       "options": [
-        "0.01 mol lit-1 s-1",
-        "0.02 mol lit-1 s-1",
-        "0.001 mol lit-1 s-1",
-        "0.1 mol lit-1 s-1",
-        "0.04 mol lit-1 s-1"
+        "0.01 mol lit$^{-1}$ s$^{-1}$",
+        "0.02 mol lit$^{-1}$ s$^{-1}$",
+        "0.001 mol lit$^{-1}$ s$^{-1}$",
+        "0.1 mol lit$^{-1}$ s$^{-1}$",
+        "0.04 mol lit$^{-1}$ s$^{-1}$"
       ],
       "correct_option": 0
     },
     {
       "id": 137,
       "subject": "Chemistry",
-      "text": "Which of the following compound of manganese is a mixed oxide?",
+      "text": "Which of the following compounds of manganese is a mixed oxide?",
       "has_image": false,
       "image_path": "",
       "options": [
         "MnO",
-        "Mn3O4",
-        "Mn2O3",
-        "MnO2",
-        "Mn2O7"
+        "Mn$_3$O$_4$",
+        "Mn$_2$O$_3$",
+        "MnO$_2$",
+        "Mn$_2$O$_7$"
       ],
       "correct_option": 1
     },
@@ -2065,18 +2065,18 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "[Co(NH3)5(CO)]Cl2",
-        "[Co(NH3)5(CO3)]Cl",
-        "[Co(NH3)5(CO3)]Cl2",
-        "[Co(NH3)5(CO3)]Cl2",
-        "[Co(NH3)5(CO3)]Cl3"
+        "[Co(NH$_3$)$_5$(CO)]Cl$_2$",
+        "[Co(NH$_3$)$_5$(CO$_3$)]Cl",
+        "[Co(NH$_3$)$_5$(CO$_3$)]Cl$_2$",
+        "[Co(NH$_3$)$_5$(CO$_3$)]Br",
+        "[Co(NH$_3$)$_5$(CO$_3$)]Cl$_3$"
       ],
       "correct_option": 1
     },
     {
       "id": 139,
       "subject": "Chemistry",
-      "text": "The correct increasing order of wavelength of absorption of the following complexes is (i) [CoCl(NH3)5]2+ (ii) [Co(NH3)5(H2O)]3+ (iii) [Co(NH3)6]3+ (iv) [Co(CN)6]3-",
+      "text": "The correct increasing order of wavelength of absorption of the following complexes is (i) [CoCl(NH$_3$)$_5$]$^{2+}$ (ii) [Co(NH$_3$)$_5$(H$_2$O)]$^{3+}$ (iii) [Co(NH$_3$)$_6$]$^{3+}$ (iv) [Co(CN)$_6$]$^{3-}$",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -2091,22 +2091,22 @@
     {
       "id": 140,
       "subject": "Chemistry",
-      "text": "When sodium fusion extract is treated with sodium nitropruside, the appearance of violet colour is due to the formation of",
+      "text": "When sodium fusion extract is treated with sodium nitroprusside, the appearance of violet colour is due to the formation of",
       "has_image": false,
       "image_path": "",
       "options": [
-        "[Fe(CN)5NO]2-",
-        "[Fe(CN)5NO]2+",
-        "[Fe(CN)5NOS]4-",
-        "[Fe(CN)5NOS]2-",
-        "[Fe(CN)5NOS]2+"
+        "[Fe(CN)$_5$NO]$^{2-}$",
+        "[Fe(CN)$_5$NO]$^{2+}$",
+        "[Fe(CN)$_5$NOS]$^{4-}$",
+        "[Fe(CN)$_5$NOS]$^{2-}$",
+        "[Fe(CN)$_5$NOS]$^{2+}$"
       ],
       "correct_option": 2
     },
     {
       "id": 141,
       "subject": "Chemistry",
-      "text": "Which of the following gives 2- methylbutane on hydrogenation? (i) 2-methylbut-1-ene (ii) 3-methylbut-1-yn (iii) 2-methylbut-2-ene (iv) 3-methylbut-1-ene (v) pent-2-ene",
+      "text": "Which of the following gives 2-methylbutane on hydrogenation? (i) 2-methylbut-1-ene (ii) 3-methylbut-1-yne (iii) 2-methylbut-2-ene (iv) 3-methylbut-1-ene (v) pent-2-ene",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -2121,7 +2121,7 @@
     {
       "id": 142,
       "subject": "Chemistry",
-      "text": "An alkene, $\\mathrm{C_3H_6}$ (X), on treatment with HBr in presence of peroxide gives(Y). The compound(Y) on treatment with $\\mathrm{AgNO_2}$ in ethanol gives (Z). The compounds (X), (Y) and (Z) are respectively",
+      "text": "An alkene, $\\mathrm{C_3H_6}$ (X), on treatment with HBr in presence of peroxide gives (Y). The compound (Y) on treatment with $\\mathrm{AgNO_2}$ in ethanol gives (Z). The compounds (X), (Y) and (Z) are respectively",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -2129,29 +2129,29 @@
         "propene, 2-bromopropane, 2-nitropropane",
         "propene, 2-bromopropane, 1-nitropropane",
         "propyne, 1-bromopropane, 1-nitropropane",
-        "propene, 1,2-dibromopropane, 1,2-dinitopropane"
+        "propene, 1,2-dibromopropane, 1,2-dinitropropane"
       ],
       "correct_option": 0
     },
     {
       "id": 143,
       "subject": "Chemistry",
-      "text": "The reaction $\\mathrm{CH_3Br + AgF\\rightarrow CH_3F + AgBr}$ is termed as",
+      "text": "The reaction $\\mathrm{CH_3Br + AgF \\rightarrow CH_3F + AgBr}$ is termed as",
       "has_image": false,
       "image_path": "",
       "options": [
         "Stephen reaction",
         "Swarts reaction",
-        "Sandmayer reaction",
+        "Sandmeyer reaction",
         "Kolbe's reaction",
-        "Riemer- Tiemann reaction"
+        "Reimer-Tiemann reaction"
       ],
       "correct_option": 1
     },
     {
       "id": 144,
       "subject": "Chemistry",
-      "text": "When 2- methylbutan- 2- ol is treated with Lucas reagent con.HCl and ZnCl2 at room temperature, the product obtained is",
+      "text": "When 2-methylbutan-2-ol is treated with Lucas reagent (conc. HCl and ZnCl$_2$) at room temperature, the product obtained is",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -2166,15 +2166,15 @@
     {
       "id": 145,
       "subject": "Chemistry",
-      "text": "The relative ease of dehydration of the following alcohols is (i) Propan-2-ol (ii) Propan-1-ol (iii) 2- Methylpropan-2-ol",
+      "text": "The relative ease of dehydration of the following alcohols is (i) Propan-2-ol (ii) Propan-1-ol (iii) 2-Methylpropan-2-ol",
       "has_image": false,
       "image_path": "",
       "options": [
-        "(iii) $>$ (ii) $>$ (i)",
-        "(ii) $>$ (i) $>$ (iii)",
-        "(ii) $>$ (iii) $>$ (i)",
-        "(i) $>$ (ii) $>$ (iii)",
-        "(iii) $>$ (i) $>$ (ii)"
+        "(iii) > (ii) > (i)",
+        "(ii) > (i) > (iii)",
+        "(ii) > (iii) > (i)",
+        "(i) > (ii) > (iii)",
+        "(iii) > (i) > (ii)"
       ],
       "correct_option": 4
     },
@@ -2185,18 +2185,18 @@
       "has_image": false,
       "image_path": "",
       "options": [
-        "Hydrogenation of benzylchloride with Pd/BaSO4 as catalyst.",
+        "Hydrogenation of benzyl chloride with Pd/BaSO$_4$ as catalyst",
         "Oxidation of toluene with chromyl chloride followed by hydrolysis",
-        "Toluene is treated with $\\mathrm{Cr_2O_3}$ in acetic anhydride followed by hydrolysis",
-        "Side chain chlorination of toluene followed by hydrolysis.",
-        "Benzene is treated with CO and HClin the presence of anhydrous AlCl3."
+        "Toluene is treated with Cr$_2$O$_3$ in acetic anhydride followed by hydrolysis",
+        "Side chain chlorination of toluene followed by hydrolysis",
+        "Benzene is treated with CO and HCl in the presence of anhydrous AlCl$_3$"
       ],
       "correct_option": 3
     },
     {
       "id": 147,
       "subject": "Chemistry",
-      "text": "Vigorous oxidation of n-propylbenzene with alkaline potassium permanganate (KMnO4- KOH/$\\triangle$) followed by hydrolysis gives",
+      "text": "Vigorous oxidation of n-propylbenzene with alkaline potassium permanganate (KMnO$_4$-KOH/$\\triangle$) followed by hydrolysis gives",
       "has_image": false,
       "image_path": "",
       "options": [
@@ -2204,36 +2204,36 @@
         "phenyl acetic acid",
         "phenyl propionic acid",
         "benzaldehyde",
-        "benzoid acid"
+        "benzoic acid"
       ],
       "correct_option": 4
     },
     {
       "id": 148,
       "subject": "Chemistry",
-      "text": "The descending order of basic strength of the following amines is (i) N-Methylbenzamine (ii) N.N'-Dimethylbenzamine (iii) Benzenamine (iv) Phenylmethanamine",
+      "text": "The descending order of basic strength of the following amines is (i) N-Methylbenzamine (ii) N,N-Dimethylbenzamine (iii) Benzenamine (iv) Phenylmethanamine",
       "has_image": false,
       "image_path": "",
       "options": [
-        "(i) $>$ (ii) $>$ (iv) $>$ (iii)",
-        "(iv) $>$ (i) $>$ (ii) $>$ (iii)",
-        "(iv) $>$ (ii) $>$ (i) $>$ (iii)",
-        "(ii) $>$ (i) $>$ (iv) $>$ (iii)",
-        "(i) $>$ (ii) $>$ (iii) $>$ (iv)"
+        "(i) > (ii) > (iv) > (iii)",
+        "(iv) > (i) > (ii) > (iii)",
+        "(iv) > (ii) > (i) > (iii)",
+        "(ii) > (i) > (iv) > (iii)",
+        "(i) > (ii) > (iii) > (iv)"
       ],
       "correct_option": 2
     },
     {
       "id": 149,
       "subject": "Chemistry",
-      "text": "Benzene diazoniumchloride on treatment with HCl in the presence of copper powder gives chlorobenzene. This reaction is termed as",
+      "text": "Benzene diazonium chloride on treatment with HCl in the presence of copper powder gives chlorobenzene. This reaction is termed as",
       "has_image": false,
       "image_path": "",
       "options": [
         "Sandmeyer reaction",
         "Gatterman reaction",
         "Stephen reaction",
-        "Gatterman Koch reaction",
+        "Gatterman-Koch reaction",
         "Etard reaction"
       ],
       "correct_option": 1
@@ -2241,7 +2241,7 @@
     {
       "id": 150,
       "subject": "Chemistry",
-      "text": "Which of the following statements are true about sucrose? (i) It is a dissacharide (ii) It is a reducing sugar (iii) It is laevorotatory (iv) Sucrose on hydrolysis gives equimolar mixture of $\\mathbb{D}(+)$ glucose and D- (- )fructose. (v) In sucrose, two monosaccharides are held together by a glycosidic linkage",
+      "text": "Which of the following statements are true about sucrose? (i) It is a disaccharide (ii) It is a reducing sugar (iii) It is laevorotatory (iv) Sucrose on hydrolysis gives equimolar mixture of $\\mathrm{D}(+)$-glucose and $\\mathrm{D}(-)$-fructose (v) In sucrose, two monosaccharides are held together by a glycosidic linkage",
       "has_image": false,
       "image_path": "",
       "options": [
