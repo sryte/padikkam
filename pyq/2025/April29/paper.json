@@ -2047,9 +2047,9 @@
     {
       "id": 137,
       "subject": "Chemistry",
-      "text": "Match the Column-I with Column-II. Column-I (Catalyst) (a) $\\mathrm{TiCl_4 + Al(CH_3)_3}$ (b) $\\mathrm{PdCl_2}$ (c) Fe (d) Ni (e) $\\mathrm{V_2O_5}$ Column-II Used in (i) Oxidation of $\\mathrm{SO_2}$ in the manufacture of $\\mathrm{H_2SO_4}$ (ii) Hydrogenation of fats (iii) Zeigler catalyst (iv) Wacker process (v) Haber process",
-      "has_image": false,
-      "image_path": "",
+      "text": "Match the Column-I with Column-II.",
+      "has_image": true,
+      "image_path": "pyq/2025/April29/137.webp",
       "options": [
         "(a)-(iii), (b)-(iv), (c)-(v), (d)-(ii), (e)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(v), (d)-(iii), (e)-(i)",
@@ -2092,9 +2092,9 @@
     {
       "id": 140,
       "subject": "Chemistry",
-      "text": "Four complex ions are given in Column I and the colours of light absorbed are given in Column II. Match the correct answer from the codes given below. (a) $[\\mathrm{Ti(H_2O)_6}]^{3+}$ (b) $[\\mathrm{Cu(H_2O)_4}]^{2+}$ (c) $[\\mathrm{CoCl(NH_3)_5}]^{2+}$ (d) $[\\mathrm{Co(NH_3)_6}]^{3+}$",
-      "has_image": false,
-      "image_path": "",
+      "text": "Four complex ions are given in Column I and the colours of light absorbed are given in Column II. Match the correct answer from the codes given below.",
+      "has_image": true,
+      "image_path": "pyq/2025/April29/140.webp",
       "options": [
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
@@ -2153,14 +2153,14 @@
       "id": 144,
       "subject": "Chemistry",
       "text": "Which of the following is most reactive towards nucleophilic aromatic substitution?",
-      "has_image": false,
-      "image_path": "",
+      "has_image": true,
+      "image_path": "pyq/2025/April29/144.webp",
       "options": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
       ],
       "correct_option": 4
     },
@@ -2168,14 +2168,14 @@
       "id": 145,
       "subject": "Chemistry",
       "text": "What is the major product of the following reaction?",
-      "has_image": false,
-      "image_path": "",
+      "has_image": true,
+      "image_path": "pyq/2025/April29/145.webp",
       "options": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
       ],
       "correct_option": 2
     },
@@ -2197,9 +2197,9 @@
     {
       "id": 147,
       "subject": "Chemistry",
-      "text": "The product of the following reaction is $\\mathrm{C_6H_5CHO + C_6H_5COCH_3 \\xrightarrow{NaOH}}$",
-      "has_image": false,
-      "image_path": "",
+      "text": "The product of the following reaction is ",
+      "has_image": true,
+      "image_path": "pyq/2025/April29/147.webp",
       "options": [
         "$\\mathrm{C_6H_5CH = CHCOC_6H_5}$",
         "$\\mathrm{C_6H_5COCH_2C_6H_5}$",
@@ -2227,9 +2227,9 @@
     {
       "id": 149,
       "subject": "Chemistry",
-      "text": "Choose the correct combinations for the column I with column II. Column-I a) Benzenesulphonyl chloride b) Conversion of amide to amine c) Conversion of primary amine to isocyanide d) Diethylamine Column-II (i) Carbylamine reaction (ii) Secondary amine (iii) Hinsberg's reagent (iv) Hofmann's bromamide reaction",
-      "has_image": false,
-      "image_path": "",
+      "text": "Choose the correct combinations for the column I with column II.",
+      "has_image": true,
+      "image_path": "pyq/2025/April29/149.webp",
       "options": [
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
