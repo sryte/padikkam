@@ -1193,8 +1193,8 @@
       "id": 80,
       "subject": "Physics",
       "text": "A ball moves in a circle of radius \\(0.5 \\text{m}\\) from A to B in \\(\\sqrt{2}\\) s. The average velocity of the ball is (in \\(\\text{ms}^{- 1}\\) )",
-      "has_image": false,
-      "image_path": "",
+      "has_image": true,
+      "image_path": "pyq/2025/April26/80.webp",
       "options": [
         "0.25",
         "0.5",
@@ -1538,8 +1538,8 @@
       "id": 103,
       "subject": "Physics",
       "text": "The value of R in the given circuit is",
-      "has_image": false,
-      "image_path": "",
+      "has_image": true,
+      "image_path": "pyq/2025/April26/103.webp",
       "options": [
         "0.4 Ω",
         "8 Ω",

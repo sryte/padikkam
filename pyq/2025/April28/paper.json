@@ -1118,8 +1118,8 @@
       "id": 75,
       "subject": "Mathematics",
       "text": "The shaded region ABC shown in the diagram is given by the inequalities",
-      "has_image": false,
-      "image_path": "",
+      "has_image": true,
+      "image_path": "pyq/2025/April28/75.webp",
       "options": [
         "\\(x + y\\leq 3,3x + 5y\\geq 15,x\\geq 0,y\\geq 0.\\)",
         "\\(x + y\\geq 3,3x + 5y\\leq 15,x\\geq 0,y\\geq 0.\\)",
@@ -1882,9 +1882,9 @@
     {
       "id": 126,
       "subject": "Chemistry",
-      "text": "Types of system and their definitions are given below:\n\nSystem (a) Closed system (i) A system which can exchange both energy and matter with surrounding (b) Open system (ii) A system which cannot exchange matter or energy with surrounding (c) Isolated system (iii) A system consisting of single phase (d) Homogeneous system (iv) A system consisting of many phases (e) Heterogeneous system (v) A system which can exchange only energy with surrounding\n\nChoose the correct match from the following codes:",
-      "has_image": false,
-      "image_path": "",
+      "text": "Types of system and their definitions are given below:\nChoose the correct match from the following codes:",
+      "has_image": true,
+      "image_path": "pyq/2025/April28/126.webp",
       "options": [
         "(a)-i, (b)-ii, (c)-iii, (d)-iv, (e)-v",
         "(a)-ii, (b)-i, (c)-iii, (d)-iv, (e)-v",
@@ -2183,8 +2183,8 @@
       "id": 146,
       "subject": "Chemistry",
       "text": "The products P1, P2, P3 and P4 of the following reactions are",
-      "has_image": false,
-      "image_path": "",
+      "has_image": true,
+      "image_path": "pyq/2025/April28/146.webp",
       "options": [
         "P1 = Phenol, P2 = Salicylaldehyde, P3 = Cyclohexanol, P4 = Phenyl acetate",
         "P1 = Benzene, P2 = Salicylic acid, P3 = Cyclohexanol, P4 = Phenyl acetate",
@@ -2228,8 +2228,8 @@
       "id": 149,
       "subject": "Chemistry",
       "text": "In the following reaction, the final product B is",
-      "has_image": false,
-      "image_path": "",
+      "has_image": true,
+      "image_path": "pyq/2025/April28/150.webp",
       "options": [
         "Option A",
         "Option B",
@@ -2242,9 +2242,9 @@
     {
       "id": 150,
       "subject": "Chemistry",
-      "text": "(a) Vitamin A (b) Vitamin B1 (c) Vitamin C (d) Vitamin E",
-      "has_image": false,
-      "image_path": "",
+      "text": "Choose the correct option:",
+      "has_image": true,
+      "image_path": "pyq/2025/April28/150.webp",
       "options": [
         "(a)- (iii), (b)- (i), (c)- (ii), (d)- (iv)",
         "(a)- (iii), (b)- (ii), (c)- (i), (d)- (iv)",
