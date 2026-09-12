@@ -1178,8 +1178,8 @@
       "id": 79,
       "subject": "Physics",
       "text": "For the graph shown below between time t and velocity v of the motion of a body, the correct statement is:",
-      "has_image": false,
-      "image_path": "",
+      "has_image": true,
+      "image_path": "pyq/2025/April27/79.webp",
       "options": [
         "The body comes to rest at infinite time",
         "At \\(t = 0\\), acceleration is positive",
@@ -2003,8 +2003,8 @@
       "id": 134,
       "subject": "Chemistry",
       "text": "Ammonium ion \\((\\mathrm{NH}_{4}^{+})\\) reacts with nitrite ion \\((\\mathrm{NO}_{2}^{- })\\) according to the following equation: \\(\\mathrm{NH}_{4}^{+} + \\mathrm{NO}_{2}^{- } \\rightarrow \\mathrm{N}_{2(g)} + 2\\mathrm{H}_{2}\\mathrm{O}(\\mathrm{l})\\) The following initial rates of reaction have been measured for the given reactant concentrations.",
-      "has_image": false,
-      "image_path": "",
+      "has_image": true,
+      "image_path": "pyq/2025/April27/134.webp",
       "options": [
         "Rate \\(= \\mathrm{k}[\\mathrm{NH}_4^+ ]^{1 / 2}[\\mathrm{NO}_2^- ]\\)",
         "Rate \\(= \\mathrm{k}[\\mathrm{NH}_4^+ ][\\mathrm{NO}_2^- ]\\)",
