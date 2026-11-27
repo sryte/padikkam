@@ -3,6 +3,48 @@
   "banner_message": "",
   "papers": [
     {
+      "id": "paper_2025_april_23",
+      "title": "2025 April 23",
+      "year": 2025,
+      "version": 1,
+      "url": "pyq/2025/April23/paper.json"
+    },
+    {
+      "id": "paper_2025_april_25",
+      "title": "2025 April 25",
+      "year": 2025,
+      "version": 1,
+      "url": "pyq/2025/April25/paper.json"
+    },
+    {
+      "id": "paper_2025_april_26",
+      "title": "2025 April 26",
+      "year": 2025,
+      "version": 1,
+      "url": "pyq/2025/April26/paper.json"
+    },
+    {
+      "id": "paper_2025_april_27",
+      "title": "2025 April 27",
+      "year": 2025,
+      "version": 1,
+      "url": "pyq/2025/April27/paper.json"
+    },
+    {
+      "id": "paper_2025_april_28",
+      "title": "2025 April 28",
+      "year": 2025,
+      "version": 1,
+      "url": "pyq/2025/April28/paper.json"
+    },
+    {
+      "id": "paper_2025_april_29",
+      "title": "2025 April 29",
+      "year": 2025,
+      "version": 1,
+      "url": "pyq/2025/April29/paper.json"
+    },
+    {
       "id": "paper_2026_april_17",
       "title": "2026 April 17",
       "year": 2026,
